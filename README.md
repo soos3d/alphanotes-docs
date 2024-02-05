@@ -1,4 +1,4 @@
-![](./src/resources/alphanotes-logo.png)
+<img src="./src/resources/alphanotes-logo.png" width="48" height="48" alt="AlphaNotes Logo">
 
 # AlphaNotes GPT
 
