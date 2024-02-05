@@ -1,4 +1,7 @@
 ---
+meta:
+  title: "Learn how to get a video summary with AlphaNotes"
+description: Master video summarization with AlphaNotes. Transform videos into concise summaries for quick learning. Discover how in our tutorial.
 label: How to get a video summary
 icon: video
 order: 49
@@ -28,7 +31,9 @@ By leveraging these elements, AlphaNotes elevates your learning experience, maki
 
 ## Your guide to generating summaries with AlphaNotes
 
-Harnessing the power of AlphaNotes to generate video summaries is a straightforward process designed to enhance your learning and content exploration. Here's how you can make the most of this feature:
+Harnessing the power of AlphaNotes to generate video summaries is a straightforward process designed to enhance your learning and content exploration.
+
+[!button corners="pill" text="Try AlphaNotes on ChatGPT" size="l" target="blank"](https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt)
 
 ### Requesting a Summary
 

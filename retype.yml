@@ -33,3 +33,6 @@ footer:
   copyright: "&copy; Copyright AlphaNotes {{ year }}. All rights reserved."
 editor:
   enabled: false
+integrations:
+  googleAnalytics:
+    id: A

@@ -1,4 +1,7 @@
 ---
+meta:
+  title: "AlphaNotes features description page."
+description: Explore AlphaNotes features. AI-powered summaries, note-taking, PDF conversions, and more for enhanced learning and content engagement.
 label: Features
 icon: gear
 order: 8

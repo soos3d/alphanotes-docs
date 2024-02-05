@@ -1,4 +1,7 @@
 ---
+meta:
+  title: "AlphaNotes contacts page"
+description: Connect with AlphaNotes. Join our Discord, follow on Twitter, or email us for support and updates. We're here to help you excel.
 label: Contact us
 icon: comment-discussion
 visibility: hidden

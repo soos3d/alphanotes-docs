@@ -1,4 +1,7 @@
 ---
+meta:
+  title: "Make a YouTube study aid with AlphaNotes"
+description: Find answers on AlphaNotes FAQ. Learn about our features, video summarization, study aids, and more to boost your learning efficiency.
 label: FAQ
 icon: question
 order: 1

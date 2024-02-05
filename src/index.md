@@ -1,4 +1,7 @@
 ---
+meta:
+  title: "Introducing AlphaNotes on ChatGPT"
+description: Discover AlphaNotes GPT on ChatGPT. AI-driven learning with customized summaries and study aids for efficient education. Try now for clearer insights.
 label: AlphaNotes
 icon: home
 order: 10

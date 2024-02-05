@@ -1,4 +1,7 @@
 ---
+meta:
+  title: "AlphaNotes account managing page"
+description: Manage your AlphaNotes subscription easily. Update, cancel, or modify your plan hassle-free on our account management page.
 label: Manage account
 icon: key
 order: 3

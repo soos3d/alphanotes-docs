@@ -1,4 +1,7 @@
 ---
+meta:
+  title: "AlphaNotes help command tutorial"
+description: Learn how to use the AlphaNotes help command with our tutorial. Access features, plans, and tutorials for enhanced learning. Start now!
 label: Help desk
 icon: info
 order: 50
@@ -13,6 +16,8 @@ Welcome to this step-by-step tutorial to help you quickly navigate the AlphaNote
 ## Getting started
 
 Start your interaction with AlphaNotes by either choosing it from the GPT Store or activating it in any chat session with the `@alphanotes` command.
+
+[!button corners="pill" text="Try AlphaNotes on ChatGPT" size="l" target="blank"](https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt)
 
 ### Request help information
 

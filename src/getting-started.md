@@ -1,4 +1,7 @@
 ---
+meta:
+  title: "Getting started with AlphaNotes"
+description: Start with AlphaNotes on ChatGPT and Streamline learning with AI. Requires ChatGPT Plus. Find us in the GPT Store for smarter education.
 label: Getting Started
 icon: rocket
 order: 9

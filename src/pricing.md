@@ -1,4 +1,7 @@
 ---
+meta:
+  title: "AlphaNotes pricing page"
+description: Explore AlphaNotes pricing. Plans from $0 to $9.99/month for video summaries, notes, PDF exports, and unlimited requests. Subscribe now!
 label: Pricing
 icon: goal
 order: 2
