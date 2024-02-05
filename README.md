@@ -1,8 +1,8 @@
-![](./resources/alphanotes-logo.png)
+![](./src/resources/alphanotes-logo.png)
 
 # AlphaNotes GPT
 
-![](./resources/alpha-hero.png)
+![](./src/resources/alpha-hero.png)
 
 ## Introduction
 
