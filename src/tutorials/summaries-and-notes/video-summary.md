@@ -9,7 +9,7 @@ order: 49
 
 # How to get a video summary with AlphaNotes
 
-![](../resources/summary-banner.png)
+![](../../resources/summary-banner.png)
 
 Unlock the power of concise learning through the AlphaNotes ChatGPT plugin by mastering the art of generating insightful video summaries. This tutorial guides you in transforming lengthy video content into digestible, actionable insights with minimal effort.
 
@@ -57,7 +57,7 @@ Once you receive the video summary, a realm of possibilities opens up for you to
 
 Here is an example of how a summary will look like:
 
-![](../resources/summary-example.png)
+![](../../resources/summary-example.png)
 
 This tutorial sets the stage for a transformative approach to learning with AlphaNotes. Make the most of your educational content by harnessing the efficiency and clarity of video summaries. Dive deeper, ask questions, and explore subjects in greater detail with AlphaNotes at your side. 🚀
 

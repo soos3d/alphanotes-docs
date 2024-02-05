@@ -9,7 +9,7 @@ order: 48
 
 # Make a YouTube study aid with AlphaNotes
 
-![](../resources/notes-banner.png)
+![](../../resources/notes-banner.png)
 
 Embark on a journey to revolutionize your study habits with the AlphaNotes ChatGPT plugin. This tutorial is designed to walk you through the seamless process of taking efficient notes on YouTube videos, turning them into a powerful resource for learning and research.
 
@@ -68,7 +68,7 @@ Each aid component is crafted to build upon the last, culminating in a comprehen
 
 Here is an example of how notes will look like.
 
-![](../resources/video-notes.png)
+![](../../resources/video-notes.png)
 
 ### Review and customize
 

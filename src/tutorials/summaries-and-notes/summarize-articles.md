@@ -9,7 +9,7 @@ order: 47
 
 # Master Article Summarization with AlphaNotes
 
-![](../resources/article-summary-banner.png)
+![](../../resources/article-summary-banner.png)
 
 Dive into the world of efficient learning with AlphaNotes on ChatGPT by mastering the technique of article summarization. This guide will quickly walk you through converting detailed articles into concise, informative summaries.
 
@@ -57,7 +57,7 @@ After receiving your article summary, you're set to deepen your understanding:
 
 Here is an example of what your summary might look like:
 
-![](../resources/article-summary.png)
+![](../../resources/article-summary.png)
 
 Embark on a journey of streamlined learning with AlphaNotes. Embrace the power of article summarization to make your educational endeavors more productive and insightful. Explore, question, and delve deeper into topics with AlphaNotes by your side. 🚀
 

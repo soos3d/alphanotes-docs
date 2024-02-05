@@ -9,7 +9,7 @@ order: 46
 
 # How to take notes from articles
 
-![](../resources/article-notes-banner.png)
+![](../../resources/article-notes-banner.png)
 
 Step into the realm of productive study sessions with AlphaNotes on ChatGPT by learning how to take notes on articles efficiently. This guide provides a straightforward method for transforming complex articles into organized, accessible study aids.
 
@@ -59,7 +59,7 @@ After receiving your notes, it's time to make them your own:
 
 Here's a glimpse of what your notes might look like:
 
-![](../resources/article-notes.png)
+![](../../resources/article-notes.png)
 
 Embark on a journey of streamlined studying with AlphaNotes. Leverage the power of effective note-taking to make your educational pursuits more efficient and insightful. Investigate, annotate, and delve deeper into your studies with AlphaNotes as your ally. 🚀
 
