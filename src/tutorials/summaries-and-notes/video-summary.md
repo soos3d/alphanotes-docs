@@ -4,6 +4,7 @@ meta:
 description: Master video summarization with AlphaNotes. Transform videos into concise summaries for quick learning. Discover how in our tutorial.
 label: How to get a video summary
 icon: video
+redirect: https://soos3d.github.io/alphanotes-docs/tutorials/video-summary
 order: 49
 ---
 
