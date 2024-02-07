@@ -44,7 +44,5 @@ editor:
   enabled: false
 
 integrations:
-  googleAnalytics:
-    id: ${{ secrets.GOOGLE_ANALYTICS_ID }}
   googleTagManager:
     id: ${{ secrets.GOOGLE_TAG_MANAGER_ID }}
