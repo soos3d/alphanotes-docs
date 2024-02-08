@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://soos3d.github.io/alphanotes-docs/sitemap.xml.gz
+Sitemap: https://alphanotes.one/sitemap.xml.gz
