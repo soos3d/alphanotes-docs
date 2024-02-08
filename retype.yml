@@ -1,6 +1,7 @@
 input: src
-output: docs-ui
+output: .retype
 url: soos3d.github.io/
+#cname: alphanotes.one
 favicon: ./resources/alphanotes-logo.png
 branding:
   title: AlphaNotes
@@ -46,3 +47,9 @@ editor:
 integrations:
   googleTagManager:
     id: ${{ secrets.GOOGLE_TAG_MANAGER_ID }}
+include:
+  - "sitemap.xml"
+
+edit:
+  repo: "https://github.com/soos3d/alphanotes-docs" # The URL to source files for this project
+  label: "Suggest edits"
