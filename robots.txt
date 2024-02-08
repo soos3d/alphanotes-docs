@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.alphanotes.one/sitemap.xml
+Sitemap: https://www.alphanotes.one/sitemap.xml.gz
