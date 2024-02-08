@@ -1,6 +1,6 @@
 input: src
 output: docs-ui
-url: soos3d.github.io/alphanotes-docs
+url: alphanotes.one
 favicon: ./resources/alphanotes-logo.png
 branding:
   title: AlphaNotes
