@@ -1,13 +1,18 @@
+# Basic project configuration
 input: src
 output: .retype
 url: soos3d.github.io/
-#cname: alphanotes.one
+
+# Site appearance and branding
 favicon: ./resources/alphanotes-logo.png
+
 branding:
   title: AlphaNotes
   label: GPT
   logo: ./resources/alphanotes-logo.png
   logoAlign: left
+
+# Navigation links in the header
 links:
   - text: AlphaNotes GPT
     link: https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt
@@ -25,6 +30,8 @@ links:
     link: ./news.md
     icon: key-asterisk
     target: blank
+
+# Footer links
 footer:
   links:
     - text: Contact us
@@ -41,15 +48,21 @@ footer:
       target: blank
   copyright: "&copy; Copyright AlphaNotes {{ year }}. All rights reserved."
 
+# Editor configuration
 editor:
   enabled: false
 
+# Third-party integrations
 integrations:
   googleTagManager:
     id: ${{ secrets.GOOGLE_TAG_MANAGER_ID }}
+
+# Additional files to include in the build
 include:
   - "sitemap.xml"
+  - "robots.txt"
 
+# Configuration for editing the documentation
 edit:
   repo: "https://github.com/soos3d/alphanotes-docs" # The URL to source files for this project
   label: "Suggest edits"
