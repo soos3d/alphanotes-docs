@@ -21,7 +21,7 @@ Perfect for trying out the basics.
 
 - Summarize videos
 - Generate notes
-- Max video length: 40-60 minutes
+- Max video length: 2 hours
 - 5 requests per week
 
 [!button corners="pill" text="Subscribe" size="m" target="blank"](https://a2c4cd8d45397b49d717bfbda6084041.auth.portal-pluginlab.ai/pricing)
@@ -35,7 +35,7 @@ Perfect for trying out the basics.
 For the avid learner needing more.
 
 - All Free plan features
-- Max length: 40-60 minutes
+- Max length: 2 hours
 - 50 requests per week
 
 [!button corners="pill" text="Subscribe" size="xl" target="blank"](https://a2c4cd8d45397b49d717bfbda6084041.auth.portal-pluginlab.ai/pricing)
@@ -64,7 +64,7 @@ For the ultimate learning power.
 - All Vidploma plan features
 - Summarize articles
 - Generate notes from articles
-- Articles limited to 5500 tokens
+- Articles limited to 30,000 tokens
 - Unlimited requests
 
 [!button corners="pill" text="Subscribe" size="xl" target="blank"](https://a2c4cd8d45397b49d717bfbda6084041.auth.portal-pluginlab.ai/pricing)

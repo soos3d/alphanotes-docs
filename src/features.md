@@ -69,7 +69,7 @@ Embrace the power of AI to enhance your learning and content absorption. AlphaNo
 
 It's essential to be aware of certain constraints when using AlphaNotes:
 
-- **Video Length:** Videos are typically limited to 9,000 tokens, usually about 30 to 45 minutes of content; videos with a denser dialogue may reach the token limit sooner.
+- **Video Length:** Videos are typically limited to 30,000 tokens, usually up to 2 hours of content; videos with a denser dialogue may reach the token limit sooner.
 
 - **Contextual Limits:** These limitations are in place as ChatGPT's performance can degrade with excessively long texts, potentially resulting in lower quality responses and loss of context.
 
