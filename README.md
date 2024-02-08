@@ -33,8 +33,6 @@ Experience the power of AI in education with AlphaNotes GPT. Our platform cataly
 - Contact us via our website: [Get in touch](https://www.alphanotes.one/contact)
 - Stay updated with our latest News: [News](https://www.alphanotes.one/news)
 
-For a documentation-focused repository, where contributions are primarily text edits or additions, the guidance should be tailored to encourage clear, concise, and helpful documentation updates. Here's a revised version that suits a docs website:
-
 ## Running the Project Locally
 
 To set up and run this project locally, especially if you're interested in contributing, follow the steps outlined below. These instructions will guide you through installing the necessary tools, cloning the project, and starting the project on your local machine.
