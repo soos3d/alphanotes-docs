@@ -1,5 +1,5 @@
 ---
 label: Tutorials redirect
-redirect: ./tutorials/tutorial.md
+redirect: ./alphanotes-guides/tutorial.md
 hidden: true
 ---
