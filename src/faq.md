@@ -29,7 +29,7 @@ The Free plan offers the ability to summarize videos and generate notes with a w
 
 ### Are there any limits to the length of videos and articles that can be processed?
 
-Yes, there are limits to the length of videos and articles AlphaNotes can process. The video transcripts and articles are restricted to a maximum of 9,000 tokens, equating to approximately 40-60 minutes of video content. This limitation ensures optimal performance and accuracy in content processing and summarization.
+Yes, there are limits to the length of videos and articles AlphaNotes can process. The video transcripts and articles are restricted to a maximum of 30,000 tokens, equating to approximately 2 hours of video content. This limitation ensures optimal performance and accuracy in content processing and summarization.
 
 ### Why is there a length limit?
 
@@ -42,6 +42,10 @@ No. The actions of summarizing, taking notes, obtaining transcripts, making PDFs
 ### Will requests that result in an error count against my quota?
 
 No, requests that end in an error will not be counted towards your weekly quota, ensuring that only successfully processed requests are counted.
+
+### How Can I Provide Feedback or Report an Issue?
+
+We highly value your feedback and contributions! For quick support or to discuss your concerns with our community, join us on [Discord](https://discord.gg/KxveP887F9). Prefer to report an issue in detail? Please feel free to open an issue directly in our [documentation repository](https://github.com/soos3d/alphanotes-docs/issues) on GitHub.
 
 ## Subscription and Account Management
 
