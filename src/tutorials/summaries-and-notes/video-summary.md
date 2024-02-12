@@ -61,4 +61,4 @@ Here is an example of how a summary will look like:
 
 This tutorial sets the stage for a transformative approach to learning with AlphaNotes. Make the most of your educational content by harnessing the efficiency and clarity of video summaries. Dive deeper, ask questions, and explore subjects in greater detail with AlphaNotes at your side. 🚀
 
-For more insights and tips on maximizing your use of AlphaNotes, check out our [tutorials page](https://www.alphanotes.one/tutorials/tutorial). Happy learning!
+For more insights and tips on maximizing your use of AlphaNotes, check out our [tutorials page](../tutorials.md). Happy learning!

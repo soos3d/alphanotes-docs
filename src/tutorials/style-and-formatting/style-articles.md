@@ -60,4 +60,4 @@ After receiving your styled notes, you're encouraged to review and further custo
 
 ## Conclusion
 
-Through this tutorial, AlphaNotes invites you to explore the full potential of personalized note-taking. You can elevate your learning and information management strategies by mastering the art of styling and formatting article notes. Visit our [tutorials page](https://www.alphanotes.one/tutorials/tutorial) for more insights and to enhance your AlphaNotes experience. Happy noting!
+Through this tutorial, AlphaNotes invites you to explore the full potential of personalized note-taking. You can elevate your learning and information management strategies by mastering the art of styling and formatting article notes. Visit our [tutorials page](../tutorials.md) for more insights and to enhance your AlphaNotes experience. Happy noting!

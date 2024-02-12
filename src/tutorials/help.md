@@ -47,6 +47,6 @@ Here is an example of how the response might look like; note that this is only p
 
 ---
 
-This tutorial is just the beginning. With AlphaNotes, you're equipped to transform your learning and content engagement experiences. Should you have further questions or require additional assistance, don't hesitate to explore our [tutorials page](https://www.alphanotes.one/tutorials/tutorial) or reach out for support. Let's embark on this journey of discovery and efficiency together! 🚀
+This tutorial is just the beginning. With AlphaNotes, you're equipped to transform your learning and content engagement experiences. Should you have further questions or require additional assistance, don't hesitate to explore our [tutorials page](./tutorials.md) or reach out for support. Let's embark on this journey of discovery and efficiency together! 🚀
 
-[!button corners="pill" text="Check out the other tutorials" size="2xl" target="blank"](https://www.alphanotes.one/tutorials/tutorial)
+[!button corners="pill" text="Check out the other tutorials" size="2xl" target="blank"](./tutorials.md)

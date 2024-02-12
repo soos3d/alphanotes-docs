@@ -49,4 +49,4 @@ Here is how it will look:
 
 ## Conclusion
 
-This tutorial demystifies converting ChatGPT-generated content into PDFs for PhD Plan users. By following these steps, you can enhance your content's accessibility and utility, making saving, sharing, and utilizing your generated materials easier. For more guidance and to explore additional features, visit our [tutorials page](https://www.alphanotes.one/tutorials/tutorial). Embrace the full potential of your PhD Plan with AlphaNotes and take your content management to the next level. Happy exporting!
+This tutorial demystifies converting ChatGPT-generated content into PDFs for PhD Plan users. By following these steps, you can enhance your content's accessibility and utility, making saving, sharing, and utilizing your generated materials easier. For more guidance and to explore additional features, visit our [tutorials page](../tutorials.md). Embrace the full potential of your PhD Plan with AlphaNotes and take your content management to the next level. Happy exporting!

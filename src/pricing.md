@@ -21,6 +21,7 @@ Perfect for trying out the basics.
 
 - Summarize videos
 - Generate notes
+- Fetch GitHub repositories 🚧 [BETA feature](features.md#summarize-github-repositories) 🚧
 - Max video length: 2 hours
 - 5 requests per week
 

@@ -49,4 +49,4 @@ Once your restyled summary is in hand, seize the opportunity to customize it fur
 
 ## Conclusion
 
-By following this tutorial, AlphaNotes encourages you to explore new dimensions in video summarization. Mastering the styling and formatting of video summaries can revolutionize how you consume and share information. Check out our [tutorials page](https://www.alphanotes.one/tutorials/tutorial) for further insights and optimization tips. Elevate your video summarization game with AlphaNotes. Happy summarizing!
+By following this tutorial, AlphaNotes encourages you to explore new dimensions in video summarization. Mastering the styling and formatting of video summaries can revolutionize how you consume and share information. Check out our [tutorials page](../tutorials.md) for further insights and optimization tips. Elevate your video summarization game with AlphaNotes. Happy summarizing!

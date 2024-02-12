@@ -61,4 +61,4 @@ Here is an example of what your summary might look like:
 
 Embark on a journey of streamlined learning with AlphaNotes. Embrace the power of article summarization to make your educational endeavors more productive and insightful. Explore, question, and delve deeper into topics with AlphaNotes by your side. 🚀
 
-For further information and tips on maximizing your AlphaNotes experience, visit our [tutorials page](https://www.alphanotes.one/tutorials/tutorial). Enjoy your learning journey!
+For further information and tips on maximizing your AlphaNotes experience, visit our [tutorials page](../tutorials.md). Enjoy your learning journey!

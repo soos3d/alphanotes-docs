@@ -49,4 +49,4 @@ Here is an example:
 
 ## Conclusion
 
-This tutorial facilitates a deep dive into video content analysis, offering a pathway to obtain and leverage raw transcripts for those on the PhD Plan. With AlphaNotes and ChatGPT, accessing and working with raw transcripts becomes a seamless part of your research and learning journey. For more insights and to maximize your AlphaNotes usage, visit our [tutorials page](https://www.alphanotes.one/tutorials/tutorial). Embrace the power of raw transcripts and enhance your educational endeavors. Happy researching!
+This tutorial facilitates a deep dive into video content analysis, offering a pathway to obtain and leverage raw transcripts for those on the PhD Plan. With AlphaNotes and ChatGPT, accessing and working with raw transcripts becomes a seamless part of your research and learning journey. For more insights and to maximize your AlphaNotes usage, visit our [tutorials page](../tutorials.md). Embrace the power of raw transcripts and enhance your educational endeavors. Happy researching!

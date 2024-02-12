@@ -61,4 +61,4 @@ Here is an example of what your GitHub repository summary might look like:
 
 Begin your journey through GitHub's vast ecosystem with AlphaNotes. Utilize the GitHub Repository Summaries feature to streamline your exploration and comprehension of projects. Dive into new technologies, contribute to open-source projects, or find inspiration for your next big idea. 🚀
 
-Visit our [tutorials page](https://www.alphanotes.one/tutorials/tutorial) for more information and tips on getting the most out of your AlphaNotes experience. Happy coding!
+Visit our [tutorials page](../tutorials.md) for more information and tips on getting the most out of your AlphaNotes experience. Happy coding!
