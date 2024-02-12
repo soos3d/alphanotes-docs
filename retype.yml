@@ -55,7 +55,7 @@ editor:
 # Third-party integrations
 integrations:
   googleTagManager:
-    id: ${{ secrets.GOOGLE_TAG_MANAGER_ID }}
+    id: G-ENMVHFFXXN
 
 # Additional files to include in the build
 include:
