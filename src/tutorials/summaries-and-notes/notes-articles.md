@@ -63,4 +63,4 @@ Here's a glimpse of what your notes might look like:
 
 Embark on a journey of streamlined studying with AlphaNotes. Leverage the power of effective note-taking to make your educational pursuits more efficient and insightful. Investigate, annotate, and delve deeper into your studies with AlphaNotes as your ally. 🚀
 
-For more tips and strategies on making the most of your AlphaNotes experience, check out our [tutorials page](https://www.alphanotes.one/tutorials). Happy studying!
+For more tips and strategies on making the most of your AlphaNotes experience, check out our [tutorials page](https://www.alphanotes.one/tutorials/tutorial). Happy studying!

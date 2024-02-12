@@ -49,4 +49,4 @@ After receiving the styled transcript, you're invited to personalize it further:
 
 ## Conclusion
 
-This tutorial empowers you to transform raw video transcripts into structured, styled, and reader-friendly documents. By following these steps with AlphaNotes, you can significantly enhance the value and usability of transcripts for study, work, or personal projects. Visit our [tutorials page](https://www.alphanotes.one/tutorials) for more insights and to optimize your experience with AlphaNotes. Embrace the power of practical transcript styling and make your content stand out. Happy styling!
+This tutorial empowers you to transform raw video transcripts into structured, styled, and reader-friendly documents. By following these steps with AlphaNotes, you can significantly enhance the value and usability of transcripts for study, work, or personal projects. Visit our [tutorials page](https://www.alphanotes.one/tutorials/tutorial) for more insights and to optimize your experience with AlphaNotes. Embrace the power of practical transcript styling and make your content stand out. Happy styling!

@@ -84,4 +84,4 @@ For those who prefer physical copies or need to share study materials, AlphaNote
 
 Following this guide, you can transform any YouTube video into a structured, useful study aid with AlphaNotes. Dive deeply into your subjects, maintain organized notes, and elevate your learning experience to new heights. 🚀
 
-Explore maximizing your study efficiency with AlphaNotes by visiting our [tutorials page](https://www.alphanotes.one/tutorials). Embrace the power of effective note-taking and make your educational journey a breeze!
+Explore maximizing your study efficiency with AlphaNotes by visiting our [tutorials page](https://www.alphanotes.one/tutorials/tutorial). Embrace the power of effective note-taking and make your educational journey a breeze!

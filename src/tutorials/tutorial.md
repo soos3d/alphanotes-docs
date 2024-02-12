@@ -21,6 +21,7 @@ Here you'll find a collection of resources designed to help you make the most ou
 - [Make a YouTube study aid](./summaries-and-notes/notes.md)
 - [How to get an article summary](./summaries-and-notes/summarize-articles.md)
 - [How to get an article study aid](./summaries-and-notes/notes-articles.md)
+- [Summarize GitHub repositories with AlphaNotes](./summaries-and-notes/github.md)
 
 ## Style and Formatting
 
