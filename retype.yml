@@ -1,7 +1,7 @@
 # Basic project configuration
 input: src
 output: .retype
-url: soos3d.github.io/
+url: www.alphanotes.one/
 
 # Site appearance and branding
 favicon: ./resources/alphanotes-logo.png
