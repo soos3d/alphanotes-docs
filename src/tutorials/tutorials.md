@@ -3,7 +3,7 @@ meta:
   title: "AlphaNotes tutorials summary page"
 description: This page lists the tutorials available on AlphaNotes.
 label: Tutorials list
-icon: gear
+icon: book
 order: 51
 ---
 
