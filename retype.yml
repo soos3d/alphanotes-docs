@@ -57,11 +57,6 @@ integrations:
   googleTagManager:
     id: G-ENMVHFFXXN
 
-# Additional files to include in the build
-include:
-  - "sitemap.xml"
-  - "robots.txt"
-
 # Configuration for editing the documentation
 edit:
   repo: "https://github.com/soos3d/alphanotes-docs" # The URL to source files for this project
