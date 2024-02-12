@@ -25,6 +25,19 @@ Embrace the power of AI to enhance your learning and content absorption. AlphaNo
 - **Who it's for:** Students and learners aiming to create comprehensive study materials from a video's content.
 - **How to use:** Ask for study notes or aids from a particular video URL.
 
+### 💻 Summarize GitHub Repositories
+
+> 🚧 **Feature Under Development** 🚧
+>
+> This feature is currently in its beta phase. We're refining its capabilities and performance based on user feedback and ongoing analysis. You might notice improvements and changes over time as we aim to enhance your experience. Your patience and feedback are greatly appreciated during this phase!
+
+- **What it does:** Provides concise summaries of GitHub repositories by analyzing the repository's README and other textual documentation. This feature extracts key information, project objectives, setup instructions, and usage examples to give users a clear understanding of what the repository is about and how it functions.
+
+  > 🚨 Currently, this feature does not analyze the code but only the text files.
+
+- **Who it's for:** Developers, project managers, and anyone interested in quickly grasping the essence of a GitHub repository without diving deep into the code or reading through all documentation manually.
+- **How to use:** Provide the GitHub repository URL you want. The system will then fetch and analyze the README and any significant text files to generate a summary that includes the project's purpose, how to set it up, how to use it, and any other critical insights drawn from the documentation.
+
 ### 📜 Raw Transcript Retrieval
 
 - **What it does:** Retrieves the unprocessed transcript of a video, serving as a base for custom content manipulation.
