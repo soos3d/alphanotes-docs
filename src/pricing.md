@@ -71,6 +71,20 @@ For the ultimate learning power.
 [!button corners="pill" text="Subscribe" size="xl" target="blank"](https://a2c4cd8d45397b49d717bfbda6084041.auth.portal-pluginlab.ai/pricing)
 |||
 
+||| PhD Plan 🎓 Annual
+
+**$99/year**
+
+Everything for one year!
+
+💵 Save 17% 💵
+
+⚠️ The annual plan does not renew automatically.
+
+[!button corners="pill" text="Subscribe" size="m" target="blank"](https://a2c4cd8d45397b49d717bfbda6084041.auth.portal-pluginlab.ai/pricing)
+
+|||
+
 ---
 
 > Prices are listed in USD 💵.

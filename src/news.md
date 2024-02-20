@@ -16,9 +16,13 @@ order: 5
 
 We're thrilled to announce that AlphaNotes has made it to the ChatGPT GPT store's Top 10 GPTs for Education! We're also rolling out an exciting new feature: GitHub Repository Summaries.
 
+**AlphaNotes annual plan:** The Annual plan is now available on AlphaNotes. Save 17%! It gives you access to all the features and does not renew automatically.
+
+[!button corners="pill" text="Subscribe" size="m" target="blank"](https://a2c4cd8d45397b49d717bfbda6084041.auth.portal-pluginlab.ai/pricing)
+
 **Thread Weaver GPT Expansion:** Unveiling Thread Weaver GPT - the new feature to elevate your AlphaNotes experience. Now, you can seamlessly create Twitter threads with GPT's intelligence.
 
-[!button corners="pill" text="Try Thread Weaver now" size="2xl" target="blank"](https://chat.openai.com/g/g-kROg0f5Tg-thread-weaver)
+[!button corners="pill" text="Try Thread Weaver now" size="m" target="blank"](https://chat.openai.com/g/g-kROg0f5Tg-thread-weaver)
 
 > 🌟 **Featured on Product Hunt**: We're making waves on Product Hunt! Support us on [Product Hunt](https://www.producthunt.com/posts/alphanotes?utm_souce=badge-alphanotes).
 
