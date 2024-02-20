@@ -11,7 +11,7 @@ order: 8
 
 Embrace the power of AI to enhance your learning and content absorption. AlphaNotes brings the capabilities of ChatGPT directly to you, allowing for efficient summarization, note-taking, and content retrieval in various formats. Dive into our suite of features designed to streamline your educational journey.
 
-[!button corners="pill" text="Get Premium" size="m" target="blank"](https://a2c4cd8d45397b49d717bfbda6084041.auth.portal-pluginlab.ai/pricing)
+[!button corners="pill" text="Get Premium" size="m" target="blank"](./pricing.md)
 
 ## Available features
 
