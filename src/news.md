@@ -1,7 +1,7 @@
 ---
 meta:
   title: "AlphaNotes news page"
-description: Discover AlphaNotes' Thread Weaver GPT. Elevate your learning with our Top 10 GPT tool. Use code TOP10GPT for a 50% discount!
+description: Discover AlphaNotes' Thread Weaver GPT. Elevate your learning with our Top 10 GPT tool.
 label: News
 icon: key-asterisk
 visibility: hidden
