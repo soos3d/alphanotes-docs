@@ -30,6 +30,10 @@ links:
     link: ./news.md
     icon: key-asterisk
     target: blank
+  - text: New App waitlist!
+    link: https://waitlist.alphanotes.one/
+    icon: rocket
+    target: blank
 
 # Footer links
 footer:
