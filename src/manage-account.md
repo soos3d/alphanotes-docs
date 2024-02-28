@@ -26,9 +26,20 @@ If you need to cancel your plan, click 'Cancel plan.' We've made it hassle-free 
 
 > 💡 Remember: We value your experience and feedback. If you're considering cancellation, we'd love to hear why and how we might improve. Your insights are vital for us to grow and serve you better.
 
-## Additional account options
+### Additional account options
 
 Besides managing your subscription, your account page allows you to explore different plan options.
+
+## Logout from Your AlphaNotes Session
+
+You can also manually log out from the GPT in case you need to change accounts, or you wish to:
+
+- Click on the AlphaNotes name in the top left corner.
+- Click on "Privacy settings."
+
+![](./resources/privacy-settings.png)
+
+- Select "Connected accounts" and click "Logout."
 
 ## Need help?
 
