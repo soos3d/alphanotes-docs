@@ -15,17 +15,11 @@ Embrace the power of AI to enhance your learning and content absorption. AlphaNo
 
 ## Available features
 
-### 📹 Video Summary
-
-- **What it does:** Offers a structured and detailed summary of videos specially optimized for educational content.
-- **Who it's for:** Users who need a quick understanding of a YouTube video's content without the need to watch it entirely.
-- **How to use:** Request a video summary by providing the YouTube URL.
-
 ### 📝 Generate Notes or Study Aids
 
 - **What it does:** Generates detailed and structured study aids, including essential highlights, definitions, recommendations, and quizzes.
-- **Who it's for:** Students and learners aiming to create comprehensive study materials from a video's content.
-- **How to use:** Ask for study notes or aids from a particular video URL.
+- **Who it's for:** Students and learners aiming to create comprehensive study materials from a articles's content.
+- **How to use:** Ask for study notes or aids from a particular URL.
 
 ### 💻 Summarize GitHub Repositories
 
@@ -40,13 +34,6 @@ Embrace the power of AI to enhance your learning and content absorption. AlphaNo
 - **Who it's for:** Developers, project managers, and anyone interested in quickly grasping the essence of a GitHub repository without diving deep into the code or reading through all documentation manually.
 - **How to use:** Provide the GitHub repository URL you want. The system will then fetch and analyze the README and any significant text files to generate a summary that includes the project's purpose, how to set it up, how to use it, and any other critical insights drawn from the documentation.
 
-### 📜 Raw Transcript Retrieval
-
-- **What it does:** Retrieves the unprocessed transcript of a video, serving as a base for custom content manipulation.
-- **Who it's for:** Users desiring detailed control over the content for in-depth engagement with ChatGPT.
-- **How to use:** Request the raw transcript of a video to receive the complete text.
-
-> Available starting from the [Vidploma Plan 🎥](./pricing.md)
 
 ### 📄 PDF Conversion
 
@@ -84,11 +71,7 @@ Embrace the power of AI to enhance your learning and content absorption. AlphaNo
 
 It's essential to be aware of certain constraints when using AlphaNotes:
 
-- **Video Length:** Videos are typically limited to 30,000 tokens, usually up to 2 hours of content; videos with a denser dialogue may reach the token limit sooner.
-
 - **Contextual Limits:** These limitations are in place as ChatGPT's performance can degrade with excessively long texts, potentially resulting in lower quality responses and loss of context.
-
-To ensure the best performance and quality of your summaries and notes, selecting videos within these parameters is recommended.
 
 ---
 

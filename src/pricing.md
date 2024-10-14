@@ -19,7 +19,6 @@ Choose the right plan for you and enhance your learning experience with AlphaNot
 
 Perfect for trying out the basics.
 
-- Summarize videos
 - Generate notes
 - Fetch GitHub repositories 🚧 [BETA feature](features.md#summarize-github-repositories) 🚧
 - Max video length: 2 hours
@@ -37,21 +36,6 @@ For the avid learner needing more.
 
 - All Free plan features
 - Max length: 2 hours
-- 50 requests per week
-
-[!button corners="pill" text="Subscribe" size="xl" target="blank"](https://a2c4cd8d45397b49d717bfbda6084041.auth.portal-pluginlab.ai/pricing)
-||| Vidploma Plan 🎥
-
-**$7.99/month**
-
-For those who want more profound insights.
-
-- All Extra Requests plan features
-- Get video transcripts
-- Export video transcript PDF
-- Export summaries PDF
-- Export notes PDF
-- Search for videos
 - 50 requests per week
 
 [!button corners="pill" text="Subscribe" size="xl" target="blank"](https://a2c4cd8d45397b49d717bfbda6084041.auth.portal-pluginlab.ai/pricing)

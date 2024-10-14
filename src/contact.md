@@ -31,7 +31,7 @@ Feel free to reach out through any of the following methods:
 ### Email
 
 - **Direct Contact:** Email is the way to go for business inquiries or detailed support.
-- **Send an Email:** Reach us at [info@alphanotes.one](mailto:info@alphanotes.one).
+- **Send an Email:** Reach us at [alphanotes.everyday042@passinbox.com](mailto:alphanotes.everyday042@passinbox.com).
 
 ---
 
